@@ -1,0 +1,1 @@
+{ "server": { "host": "127.0.0.1", "port": 8080 }, "share_token": false, "count": 5, "key": "wuliya", "auto_register": true, "protocol": { "package_name": "com.tencent.mobileqq", "qua": "V1_AND_SQ_8.9.83_4680_YYB_D", "version": "8.9.83", "code": "4680" }, "unidbg": { "dynarmic": false, "unicorn": true, "kvm": true, "debug": false } } 

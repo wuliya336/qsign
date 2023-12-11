@@ -1,0 +1,24 @@
+{
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8080
+  },
+  "key": "wuliya",
+  "auto_register": true,
+  "count": 10,
+  "protocol": {
+    "package_name": "com.tencent.mobileqq",
+    "qua": "V1_AND_SQ_8.9.70_4330_YYB_D",
+    "version": "8.9.70",
+    "code": "4330"
+  },
+  "unidbg": {
+    "dynarmic": false, 
+    "unicorn": true, 
+    "kvm": false,
+    "debug": false
+  },
+  "black_list": [
+    1008611
+  ]
+}
