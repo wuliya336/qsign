@@ -3,7 +3,7 @@
         "host": "0.0.0.0",
         "port": 8080
     },
-    "share_token": true,
+  "share_token": true,
   "count": 10,
   "key": "wuliya",
     "auto_register": true,

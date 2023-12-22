@@ -5,13 +5,13 @@
   },
   "share_token": false,
   "count": 10,
-  "key": "wuliya",
+  "key": "wuliya", 
   "auto_register": true,
   "protocol": {
     "package_name": "com.tencent.mobileqq",
-    "qua": "V1_AND_SQ_9.0.0_5220_HDBM_T",
+    "qua": "V1_AND_SQ_9.0.0_5282_YYB_D",
     "version": "9.0.0",
-    "code": "5220"
+    "code": "5282"
   },
   "unidbg": {
     "dynarmic": false,
